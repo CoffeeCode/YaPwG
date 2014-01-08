@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menuClipboard">copy</string>
+
+    <string name="app_name">Yet another Password Generator</string>
+    <string name="action_settings">Settings</string>
+	<string name="generateButton">Generate</string>
+	<string name="strength">Strength : </string>
+
+	<string name="less1">Too hard to remember!</string>
+	<string name="less2">WTF O.o</string>
+	
+	<string name="more1">Not secure enougth!</string>
+	<string name="more2">I want a real password.</string>
+	
+	<string name="strength0">Very Weak - Might keep out family members.</string>
+	<string name="strength1">Weak - Usually good enough for computer login passwords and to keep out the average person.</string>
+	<string name="strength2">Good - This password is fairly secure cryptographically and skilled hackers may need some good computing power to crack it.</string>
+	<string name="strength3">Strong - This password is typically good enough to safely guard sensitive information like financial records.</string>
+	<string name="strength4">Very Strong</string>
+	<string name="strength5">Exceptional </string>
+	
+	
+	<string name="testPwd">Test your Password</string>
+	
+	<string name="aStrongPwd">A strong password :</string>
+    <string name="tipPwd1">• should not contain your user name, real name, or company name.</string>
+    <string name="tipPwd2">• should have upper case, lower case, symbols, and numbers. Or at least three of those.</string>
+    <string name="tipPwd3">• should not be a common word and not be a common phrase.</string>
+    
+    <string name="appInfo">This app could easily stealing your password. It\'s not, it runs only on your device and doesn\'t send or store data. Anyway be careful where you type your password in. </string>
+    
+    <string name="aStrongPaph">A strong passphrase :</string>
+    <string name="tipPaph1">•Is 20 to 30 characters long.</string>
+    <string name="tipPaph2">•Is a series of words that create a phrase.</string>
+    <string name="tipPaph3">•Does not contain common phrases found in literature or music</string>
+    <string name="tipPaph4">•Does not contain words found in the dictionary.</string>
+    <string name="tipPaph5">•Does not contain your user name, real name, or company name.</string>
+	<string name="tipPaph6">•Is significantly different from previous passwords or passphrases.</string>
+    
+	<string name="pwlength">Length</string>
+	<string name="chars">[a-z] </string>
+    <string name="charsUpper">[A-Z] </string>
+	<string name="numbers">[0-9] </string>
+    <string name="symbols">[@..#]</string>
+    
+    
+    <string name="entropy">Entropy : </string>
+    <string name="bit">bits</string>
+    
+	
+</resources>
