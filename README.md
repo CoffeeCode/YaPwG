@@ -1,5 +1,6 @@
 YaPwG 
 Yet another Password Generator
+==========
 
 
 A small and simple Android password generator.
@@ -7,10 +8,11 @@ A small and simple Android password generator.
 
 
 License:
+==========
 
  This file is part of YaPwG.
 
-    Foobar is free software: you can redistribute it and/or modify
+    YaPwG  is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
