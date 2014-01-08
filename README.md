@@ -1,7 +1,8 @@
-YaPwG 
-Yet another Password Generator
+YaPwG
 ==========
 
+Yet another Password Generator
+==========
 
 A small and simple Android password generator.
 
