@@ -5,7 +5,7 @@ A small and simple Android password generator.
 
 Play Store: https://play.google.com/store/apps/details?id=info.ap.yapwg&hl=de
 
-![Logo](http://francky.me/images/quora001.png)
+![Logo](http://goo.gl/Y1BBTw)
 
 License:
 ==========
