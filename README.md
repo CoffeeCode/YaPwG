@@ -1,8 +1,11 @@
-
 Yet another Password Generator (YaPwG)
 ==========
 
 A small and simple Android password generator.
+
+Play Store: https://play.google.com/store/apps/details?id=info.ap.yapwg&hl=de
+
+[<img src="https://lh3.ggpht.com/P8gChM_ITXWFqCD4nicBcykcOZuIHmgF4pfpNkdtgw5VPZvRaM2NFEkTkkOxlLwOh7o=h900-rw">]
 
 
 
